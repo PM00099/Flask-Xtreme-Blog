@@ -1,0 +1,24 @@
+{
+    "parameter":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/xtreme-blog",
+        "prod_uri":"mysql://root:@localhost/xtreme-blog",
+        "fb_url":"https://facebook.com/xtreme-blog",
+        "tw_url":"https://twitter.com/xtreme-blog",
+        "gh_url":"https://github.com/PM00099",
+        "blog_name":"Xtreme-Blog",
+        "tag_line":"A Blog liked by Programmers",
+        "gmail-user":"priyankmithaiwala@gmail.com",
+        "gmail-pass":"priyank99",
+        "about_text": "My name is Priyank Mithaiwala.I create programming blogs for the beginners in Python Language.I created this website using python flask micro-webframework.Its a best experince work with the python web-frameworks.",
+        "no_of_post":3,
+        "login_image":"x.svg",
+        "admin_name":"Priyank",
+        "admin_user":"PM",
+        "admin_password": "pm99",
+        "upload_location":"C:\\Users\\PRIYANK LAPTOP\\PycharmProjects\\Flask\\static"
+    }
+
+
+}
