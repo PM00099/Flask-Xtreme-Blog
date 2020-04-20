@@ -19,6 +19,7 @@
 #### To run the app first downlod ZIP file from clone of downlod.
 #### Install all requirments.txt file in your system.
 #### Must downlod XAMPP for database connectivity.
+#### you can see admin login through config.json file admin_user and admin_password.
 
 ![](https://github.com/PM00099/Flask-Xtreme-Blog/blob/master/pr_5.jpg)
 
