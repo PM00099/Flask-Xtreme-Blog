@@ -1,6 +1,5 @@
 # Flask-Xtreme-Blog
 
-# A Simple Task List
 ### A personal project of mine. To get started on web-develepment. Hope you enjoy.
 
 # Technologies Used
@@ -21,7 +20,7 @@
 #### Install all requirments.txt file in your system.
 #### Must downlod XAMPP for database connectivity.
 
-![](https://github.com/PM00099/XtremeTask.in/blob/master/into_1.jpg)
+![](https://github.com/PM00099/Flask-Xtreme-Blog/blob/master/pr_5.jpg)
 
 
-![](https://github.com/PM00099/XtremeTask.in/blob/master/into_2.jpg)
+![](https://github.com/PM00099/Flask-Xtreme-Blog/blob/master/pr_6.jpg)
