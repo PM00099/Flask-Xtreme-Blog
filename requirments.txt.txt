@@ -1,0 +1,7 @@
+python==3.6
+flask
+flask_sqlalchemy
+json
+flask_mail
+werkzeug
+xampp==3.2.4
